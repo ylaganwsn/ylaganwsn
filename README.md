@@ -8,9 +8,11 @@
 
 ## 🚀 About Me
 
-Senior Platform Engineer with **15 years in IT infrastructure** and **8 years in DevOps and Cloud Automation**. I specialize in building **Internal Developer Platforms (IDP)** that streamline software delivery and improve developer productivity.
+Senior Platform Engineer with 15 years in IT infrastructure and 8 years in DevOps and Cloud Automation. I focus on building Internal Developer Platforms (IDP) that streamline software delivery and improve developer productivity.
 
-Currently focused on **AI/ML infrastructure**, compute orchestration, and automated model lifecycles.
+Currently working on enterprise-scale projects including engineering KPI dashboards, serverless cloud deployments, keyless CI/CD pipelines, and big data SQL integrations on multi-cloud environments — leveraging ASP.NET Core | AWS Lambda | GitHub Actions OIDC | Databricks SQL | Microsoft Entra ID | DynamoDB | API Gateway.
+
+Experienced in DevSecOps, CI/CD automation, Infrastructure as Code, and AI/ML infrastructure — including compute orchestration and automated model lifecycles.
 
 ---
 
@@ -67,7 +69,6 @@ Currently focused on **AI/ML infrastructure**, compute orchestration, and automa
 
 | Repository | Description |
 |-----------|-------------|
-| 🔧 [shared-workflows](https://github.com/ylaganwsn/shared-workflows) | Reusable GitHub Actions workflows for CI/CD pipelines |
 
 > More repositories coming soon — Terraform modules, Ansible playbooks, and CloudFormation templates
 
