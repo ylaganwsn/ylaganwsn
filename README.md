@@ -24,6 +24,7 @@ Experienced in DevSecOps, CI/CD automation, Infrastructure as Code, and AI/ML in
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🔄 CI/CD & DevOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -33,7 +34,11 @@ Experienced in DevSecOps, CI/CD automation, Infrastructure as Code, and AI/ML in
 
 ### 🔒 Security (DevSecOps)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Veracode](https://img.shields.io/badge/Veracode-009BDE?style=for-the-badge&logo=veracode&logoColor=white)
 ![AWS GuardDuty](https://img.shields.io/badge/GuardDuty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS WAF](https://img.shields.io/badge/AWS_WAF-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![JFrog Xray](https://img.shields.io/badge/JFrog_Xray-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
 
 ### 📊 Monitoring
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
