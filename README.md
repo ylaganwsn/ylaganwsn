@@ -2,7 +2,7 @@
 
 ### Senior Platform Engineer | DevOps | Cloud Infrastructure
 
-📍 Philippines &nbsp;|&nbsp; 🌏 Open to Remote Contracts &nbsp;|&nbsp; ⏰ UTC+8
+📍 Philippines &nbsp;| &nbsp; ⏰ UTC+8
 
 ---
 
