@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Winfield Ylagan
 
-### Platform Engineer | DevOps | Cloud Infrastructure
+### Platform Engineer | DevOps & Cloud | AI Infrastructure & LLM Applications | DevSecOps
 
 📍 Philippines &nbsp;| &nbsp; ⏰ UTC+8
 
